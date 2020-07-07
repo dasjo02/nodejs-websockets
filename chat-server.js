@@ -1,3 +1,5 @@
+//Chat-server code from:  https://gist.github.com/martinsik/2031681/15bd5fc5be27b19e128871e2578ba6ca909500c4
+
 "use strict";
 // Optional. You will see this name in eg. 'ps' or 'top' command
 process.title = 'node-chat';
